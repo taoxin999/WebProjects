@@ -1,5 +1,5 @@
 # MyApp
-This is my app
+This is my app for GitHub tutorial
 
 ### Test Head Line
 
